@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://feyzaakyurek.github.io/sitemap.xml
+Sitemap: https://vinaysamuel.github.io/sitemap.xml
