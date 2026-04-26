@@ -1,8 +1,7 @@
 github_users:
-  - feyzaakyurek
+  - vsamuel2003
 
 github_repos:
-  - feyzaakyurek/rl4f
-  - feyzaakyurek/dune
-  - feyzaakyurek/subspace-reg
-  - feyzaakyurek/bbnli
+  - vsamuel2003/CIE
+  - vsamuel2003/PersonaGym
+  - vsamuel2003/data-contamination
