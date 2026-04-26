@@ -40,3 +40,9 @@
 
 "COLING":
   url: https://aclanthology.org/venues/coling/
+
+"Findings of EMNLP":
+  url: https://aclanthology.org/venues/emnlp/
+
+"Findings of ACL":
+  url: https://aclanthology.org/venues/acl/
