@@ -3,12 +3,12 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Afra Feyza
+first_name: Vinay
 middle_name:
-last_name: Akyürek
-email: akyurekafra@gmail.com
+last_name: Samuel
+email: vsamuel@umd.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Afra Feyza Akyürek | Research Scientist at Scale AI
+  Vinay Samuel | Machine Learning Research Intern at Scale AI
 footer_text: >
   ""
 keywords: ai, ml, nlp, machine-learning, artificial-intelligence, natural-language-processing, computer science
@@ -16,7 +16,7 @@ keywords: ai, ml, nlp, machine-learning, artificial-intelligence, natural-langua
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon_32.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://feyzaakyurek.github.io # the base hostname & protocol for your site
+url: https://vinaysamuel.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -69,13 +69,13 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: feyzaakyurek
+github_username: vsamuel2003
 gitlab_username: # your GitLab user name
-twitter_username: afeyzaakyurek
+twitter_username: vsamuel2003
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: afrafeyzaakyurek
+linkedin_username: vinaysamuel2003
 telegram_username: # your Telegram user name
-scholar_userid: RXsYj9IAAAAJ
+scholar_userid: Ab_Gl3cAAAAJ
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
