@@ -17,9 +17,9 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-I am an incoming Machine Learning Research Intern at Scale AI for Summer 2026 and am CS Masters student at UMD College Park, working on LLM agents and alignment/controllability. I received my BS in Statistics and Machine Learning from Carnegie Mellon University in May 2025.
+I am an incoming Machine Learning Research Intern at Scale AI for Summer 2026 and am a CS Masters student at UMD College Park, working on LLM agents and alignment/controllability. I received my BS in Statistics and Machine Learning from Carnegie Mellon University in May 2025.
 
-Currently I am conducting research under Dr. [Furong Huang](https://furong-huang.com/) on Self Improvement for LLM Agents and Dr. [Mohit Iyyer](https://www.cs.umd.edu/~miyyer/) on reversing LLM Alignment Tax. Previously, I had the privilege of being mentored by Dr. [Daphne Ippolito](https://www.daphnei.com), Dr. [Karthik Narasimhan](https://karthikncode.github.io), and Dr. [Diyi Yang](https://cs.stanford.edu/~diyiy/).
+Currently I am conducting research under [Dr. Furong Huang](https://furong-huang.com/) on Self Improvement for LLM Agents and [Dr. Mohit Iyyer](https://www.cs.umd.edu/~miyyer/) on reversing LLM Alignment Tax. Previously, I had the privilege of being mentored by [Dr. Daphne Ippolito](https://www.daphnei.com), [Dr. Karthik Narasimhan](https://karthikncode.github.io), and [Dr. Diyi Yang](https://cs.stanford.edu/~diyiy/).
 
 My work has been published in ACL, EMNLP, ICLR, COLM, and COLING. 
 
